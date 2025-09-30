@@ -94,7 +94,8 @@ Each challenge is mapped to one or more **design patterns** and **SOLID principl
 1. Pick any problem. `problem is defined in md file`  
 2. Solve it in your preferred programming language.  
 3. Add your solution to `/solutions/<your-name-or-team>/problem_name`.  
-4. Include a **README or notes** explaining your thought process.  
+4. Include a **README or notes** explaining your thought process. 
+5. Create the PR and after the successful review process the PR will be merged and available for other developers to take inspiration from your code. 
 
 ---
 
